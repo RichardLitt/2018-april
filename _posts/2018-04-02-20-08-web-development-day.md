@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Web development day"
 date: 2018-04-02T20:08:23Z
 image: /assets/img/logo.png

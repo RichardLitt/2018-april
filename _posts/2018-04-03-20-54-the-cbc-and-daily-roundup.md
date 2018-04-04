@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "The CBC and daily roundup"
 date: 2018-04-03T20:54:34Z
 image: /assets/img/logo.png

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "The Litt Review"
 date: 2018-04-02T11:38:02Z
 image: /assets/img/logo.png

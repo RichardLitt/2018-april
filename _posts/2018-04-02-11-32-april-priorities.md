@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "April priorities"
 date: 2018-04-02T11:32:26Z
 image: /assets/img/logo.png

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Planning better social media integration for posts"
 date: 2018-04-04T11:27:39Z
 image: /assets/img/logo.png
