@@ -1,3 +1,9 @@
+GIT
+  remote: git://github.com/bluemonk/net-dns
+  revision: 99a2d9e3d2b0ace0f1b53a1d046ee12f29018d36
+  specs:
+    net-dns (0.8.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -196,7 +202,6 @@ GEM
       jekyll (~> 3.3)
     minitest (5.11.3)
     multipart-post (2.0.0)
-    net-dns (0.8.0)
     nokogiri (1.8.2)
       mini_portile2 (~> 2.3.0)
     octokit (4.8.0)
@@ -235,6 +240,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-seo-tag
+  net-dns!
 
 BUNDLED WITH
    1.16.1
